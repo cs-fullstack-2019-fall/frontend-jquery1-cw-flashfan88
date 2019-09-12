@@ -1,0 +1,16 @@
+.redText{
+    color: red;
+}
+#myElement{
+    color: blue;
+}
+
+#this{
+    background-color: green;
+    color: white;
+}
+
+#that{
+    background-color: orange;
+    color: hotpink;
+}
